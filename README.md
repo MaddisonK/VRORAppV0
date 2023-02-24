@@ -9,10 +9,10 @@ The `src` folder contains the following files: <br />
 `ServerBehaviour.cs` - This script runs a server to transmit data through a local UDP connection. <br />
 `ClientBehaviour.cs` - This script allows for the VR headset to receive the video data. <br />
 
-## Sample 3D Scene
-<img width="387" alt="Screenshot 2023-02-24 005216" src="https://user-images.githubusercontent.com/65694382/221104523-88d25754-ba07-418c-8483-ca90ee3c8706.png">
-
 ## Software Flowchart
 The flowchart below represents the general flow of data in a server-client setup.
 
 ![Software Flowchart](VROR_Brainstorm.png)
+
+## Sample 3D Scene
+<img width="387" alt="Screenshot 2023-02-24 005216" src="https://user-images.githubusercontent.com/65694382/221104523-88d25754-ba07-418c-8483-ca90ee3c8706.png">
